@@ -1,3 +1,5 @@
+# NOTE
+THIS FRAMEWORK IS AT ITS END OF LIFE, USE [Astro Raylib Framework](https://github.com/mastercuber/Astro-Raylib-Framework) INSTEAD.
 
 # Astro SDL Framework v1.0
 
